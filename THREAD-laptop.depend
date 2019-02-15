@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1515078346 source:c:\cloud\onedrive\programowanie\project-thread\main.cpp
+	<windows.h>
+	<iostream>
+	<thread>
+	<string>
+	"functions.h"
+	"baseSettings.h"
+	"Window.h"
+
+1513881113 c:\cloud\onedrive\programowanie\project-thread\functions.h
+	<iostream>
+
+1513806053 source:c:\cloud\onedrive\programowanie\project-thread\functions.cpp
+	<iostream>
+	<string>
+	"functions.h"
+
+1513799699 source:c:\cloud\onedrive\programowanie\project-thread\basefunctions.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"functions.h"
+
+1513883878 c:\cloud\onedrive\programowanie\project-thread\basesettings.h
+
+1513860168 source:c:\cloud\onedrive\programowanie\project-thread\commandanaliser.cpp
+
+1515077704 c:\cloud\onedrive\programowanie\project-thread\window.h
+	<iostream>
+
+1515078265 source:c:\cloud\onedrive\programowanie\project-thread\window.cpp
+	<iostream>
+	<windows.h>
+	"Window.h"
+
+1513799699 source:c:\cloud\onedrive\programowanie\projects-cpp\project-thread\basefunctions.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	"functions.h"
+
+1513881113 c:\cloud\onedrive\programowanie\projects-cpp\project-thread\functions.h
+	<iostream>
+
+1513860168 source:c:\cloud\onedrive\programowanie\projects-cpp\project-thread\commandanaliser.cpp
+
+1513806053 source:c:\cloud\onedrive\programowanie\projects-cpp\project-thread\functions.cpp
+	<iostream>
+	<string>
+	"functions.h"
+
+1515413207 source:c:\cloud\onedrive\programowanie\projects-cpp\project-thread\main.cpp
+	<windows.h>
+	<iostream>
+	<thread>
+	<string>
+	"functions.h"
+	"baseSettings.h"
+	"Window.h"
+
+1513883878 c:\cloud\onedrive\programowanie\projects-cpp\project-thread\basesettings.h
+
+1515080155 c:\cloud\onedrive\programowanie\projects-cpp\project-thread\window.h
+	<iostream>
+
+1515079483 source:c:\cloud\onedrive\programowanie\projects-cpp\project-thread\window.cpp
+	<iostream>
+	<windows.h>
+	"Window.h"
+
